@@ -1,0 +1,12 @@
+TipoDocumento1;901;NombresVendedor1;ApellidosVendedor1
+TipoDocumento2;786;NombresVendedor2;ApellidosVendedor2
+TipoDocumento3;235;NombresVendedor3;ApellidosVendedor3
+TipoDocumento4;650;NombresVendedor4;ApellidosVendedor4
+TipoDocumento5;433;NombresVendedor5;ApellidosVendedor5
+TipoDocumento6;788;NombresVendedor6;ApellidosVendedor6
+TipoDocumento7;479;NombresVendedor7;ApellidosVendedor7
+TipoDocumento8;712;NombresVendedor8;ApellidosVendedor8
+TipoDocumento9;325;NombresVendedor9;ApellidosVendedor9
+TipoDocumento10;284;NombresVendedor10;ApellidosVendedor10
+TipoDocumento11;144;NombresVendedor11;ApellidosVendedor11
+TipoDocumento12;861;NombresVendedor12;ApellidosVendedor12

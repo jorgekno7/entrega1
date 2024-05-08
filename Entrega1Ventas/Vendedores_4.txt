@@ -1,0 +1,2 @@
+TipoDocumentoVendedor;NúmeroDocumentoVendedor
+TipoDocumento1;199

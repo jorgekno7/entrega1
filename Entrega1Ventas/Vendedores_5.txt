@@ -1,0 +1,5 @@
+TipoDocumentoVendedor;NúmeroDocumentoVendedor
+TipoDocumento1;263
+TipoDocumento2;580
+TipoDocumento3;143
+TipoDocumento4;212
