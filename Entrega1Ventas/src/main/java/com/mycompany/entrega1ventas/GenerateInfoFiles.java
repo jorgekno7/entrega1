@@ -10,7 +10,7 @@ import java.util.Random;
 
 /**
  *
- * @author jcanoto
+ * @author jorge luis cano toro
  */
 public class GenerateInfoFiles {
     public static void main(String[] args) {
